@@ -19,7 +19,7 @@ This term project investigates how fundamental data processing and visualization
 2) Cleaning, transforming and verifying the data if necessary
 3) Applying statistical analyises (e.g. identfying dominant categories, checking quantitative relationship)
 4) Using Tableau to create interpretable, meaningful visualizations and design interactive dashboard that summarizes key inferences about customer behavior
-5) Producing a clear report that includes methods used, visualizations and interpretations of these results.
+5) Producing a clear report that includes methods used, visualizations and interpretations of these results
 ##
 **Dataset Summary**
 - **Total Records**: 5,000 transactions
@@ -44,15 +44,15 @@ This project includes eight targeted data visualizations, which are created to a
 
 **2.** How do discounts influence sales quantity trends over time?
 
-**3.** How does the average discount amount differ between Loyal Customers and One-Time Buyers across different age groups?**
+**3.** How does the average discount amount differ between Loyal Customers and One-Time Buyers across different age groups?
 
-**4.** Does session length actually predict higher spending?**
+**4.** Does session length actually predict higher spending?
 
-**5.** How Gender and Device Usage Influence Customer Count Across Different Age Groups?**
+**5.** How Gender and Device Usage Influence Customer Count Across Different Age Groups?
 
-**6.** How Does Customers' Average Session Duration Vary Across Different Product Categories?**
+**6.** How Does Customers' Average Session Duration Vary Across Different Product Categories?
 
-**7.** How does the gender distribution of customers change in each product category?**
+**7.** How does the gender distribution of customers change in each product category?
 
 **8.** How does customer age vary among payment methods?
 
