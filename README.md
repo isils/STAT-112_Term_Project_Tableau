@@ -54,7 +54,7 @@ This project includes eight targeted data visualizations, which are created to a
 
 **7.** How does the gender distribution of customers change in each product category?**
 
-**8.** How does customer age vary among payment methods?**
+**8.** How does customer age vary among payment methods?
 
 ##
 **Used Tools**
